@@ -117,8 +117,8 @@ For me it is DETestEngine
 Cd DETestEngine/
 Ls  (will show all the directories / files)
 Git pull 
-	It will show you if you have any changes which needs to be pulled from the server repo
-	Otherwise it will say “Already up to date.”
+It will show you if you have any changes which needs to be pulled from the server repo
+Otherwise it will say “Already up to date.”
 
 
 
